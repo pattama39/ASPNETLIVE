@@ -1,0 +1,6 @@
+projectKey=aspnet
+serverUrl=https://deploy.izpalapp.com
+serverVersion=8.9.0.43852
+dashboardUrl=https://deploy.izpalapp.com/dashboard?id=aspnet
+ceTaskId=AX8b4aR9y_6GkGCJToJ2
+ceTaskUrl=https://deploy.izpalapp.com/api/ce/task?id=AX8b4aR9y_6GkGCJToJ2
